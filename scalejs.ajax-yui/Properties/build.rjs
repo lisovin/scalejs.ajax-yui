@@ -1,0 +1,7 @@
+﻿({
+	mainConfigFile: '../bootstrapper.js',
+    include: 'scalejs.ajax-yui',
+    exclude: [
+        'scalejs!core'
+    ]
+})

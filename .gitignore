@@ -1,0 +1,10 @@
+
+/scalejs.ajax-yui/build
+/scalejs.ajax-yui/obj
+/scalejs.ajax-yui/scalejs.ajax-yui.csproj.user
+/scalejs.ajax-yui.test/build
+/scalejs.ajax-yui.test/obj
+/scalejs.ajax-yui.test/scalejs.ajax-yui.test.csproj.user
+*.suo
+/TestResults
+/packages
